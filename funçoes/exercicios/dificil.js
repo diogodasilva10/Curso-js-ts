@@ -13,4 +13,11 @@ function calcular(a, b, c){
     console.log('*', b*c)
    }
 }
-
+/*function numeroCinco (a){
+     for(let i = 0; i <= 4; i++){
+        console.log(a)
+     }
+     
+}
+numeroCinco(5)
+*/

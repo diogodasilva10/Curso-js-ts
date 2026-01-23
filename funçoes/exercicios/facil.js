@@ -14,6 +14,7 @@ soma()
    console.log(numero * 2)
 }*/
 //dobro()
+
 // jeito certo dá valor fora da função
 function dobro(numero){
     console.log(numero * 2)

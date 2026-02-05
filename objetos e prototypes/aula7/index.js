@@ -27,7 +27,7 @@ function Caneca(nome, preco, material){
             return estoque
         }, 
         set: function(valor){
-            if(typeof valor !== 'number') return
+            if(typeof valor !== 'number') return 
             estoque = valor
         }
     })
